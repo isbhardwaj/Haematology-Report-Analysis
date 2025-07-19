@@ -10,6 +10,10 @@ This project presents a comprehensive analysis of a patient's complete blood cou
 - **Student:** Saloni Bhardwaj
 - **Course:** B.Tech Biotechnology, 1st Year
 - **University:** GLA University
+-
+- GitHub link https://github.com/isbhardwaj/Haematology-Report-Analysis
+  🖇️ LinkedIn https://www.linkedin.com/in/saloni-bhardwaj
+  
   
 
 ---
